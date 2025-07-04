@@ -10,11 +10,11 @@ Whether you're new to cybersecurity or reviewing for the exam, this content is d
 
 | Domain | Title                                                                                      | PDF Link                                                                                   |
 |--------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| 1      | Security Principles                                                                         | [D1_Security_Principles.pdf](./Domain1_SecurityPrinciples/D1_Security_Principles.pdf)     |
-| 2      | Business Continuity, Disaster Recovery & Incident Response                                  | [D2_Incident_Response_Business_Continuity_Disaster_Recovery_Concepts.pdf](./Domain2_BusinessContinuity/D2_Incident_Response_Business_Continuity_Disaster_Recovery_Concepts.pdf) |
-| 3      | Access Control Concepts                                                                     | [D3_Access_Control_Concepts.pdf](./Domain3_AccessControl/D3_Access_Control_Concepts.pdf)  |
-| 4      | Network Security                                                                            | [D4_Network_Security.pdf](./Domain4_NetworkSecurity/D4_Network_Security.pdf)              |
-| 5      | Security Operations                                                                         | [D5_Security_Operations.pdf](./Domain5_SecurityOperations/D5_Security_Operations.pdf)      |
+| 1      | Security Principles                                                                         | [Security_Principles.pdf](./Domain1_SecurityPrinciples/D1_Security_Principles.pdf)     |
+| 2      | Business Continuity, Disaster Recovery & Incident Response                                  | [Incident_Response_Business_Continuity_Disaster_Recovery_Concepts.pdf](./Domain2_BusinessContinuity/D2_Incident_Response_Business_Continuity_Disaster_Recovery_Concepts.pdf) |
+| 3      | Access Control Concepts                                                                     | [Access_Control_Concepts.pdf](./Domain3_AccessControl/D3_Access_Control_Concepts.pdf)  |
+| 4      | Network Security                                                                            | [Network_Security.pdf](./Domain4_NetworkSecurity/D4_Network_Security.pdf)              |
+| 5      | Security Operations                                                                         | [Security_Operations.pdf](./Domain5_SecurityOperations/D5_Security_Operations.pdf)      |
 
 ---
 
