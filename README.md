@@ -1,52 +1,50 @@
-# ISC2-CC-Study-Guide
+# 🛡️ ISC2 Certified in Cybersecurity (CC) Study Guide
 
-Welcome! This repository contains organized study notes for the **ISC2 Certified in Cybersecurity (CC)** certification exam. These notes are divided into the 5 official ISC2 domains, with a PDF file and a short domain summary in each folder.
+Welcome to the **ISC2-CC Study Guide** repository! This guide contains **well-structured study notes** tailored to help you prepare for the **ISC2 Certified in Cybersecurity (CC)** exam.
 
-Whether you're new to cybersecurity or reviewing for the exam, this content is designed to reinforce key concepts in a structured and easy-to-follow format.
+Whether you're just starting out in cybersecurity or brushing up before your exam, this resource simplifies complex topics into clear and digestible formats.
 
----
+## 📘 Domain Overview
 
-## 📘 Domains Overview
+This certification covers **five key domains**. Each section below links to a detailed PDF and summary.
 
-| Domain | Title                                                                                      | PDF Link                                                                                   |
-|--------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| 1      | Security Principles                                                                         | [Security_Principles.pdf](./Domain1_SecurityPrinciples/D1_Security_Principles.pdf)     |
-| 2      | Business Continuity, Disaster Recovery & Incident Response                                  | [Incident_Response_Business_Continuity_Disaster_Recovery_Concepts.pdf](./Domain2_BusinessContinuity/D2_Incident_Response_Business_Continuity_Disaster_Recovery_Concepts.pdf) |
-| 3      | Access Control Concepts                                                                     | [Access_Control_Concepts.pdf](./Domain3_AccessControl/D3_Access_Control_Concepts.pdf)  |
-| 4      | Network Security                                                                            | [Network_Security.pdf](./Domain4_NetworkSecurity/D4_Network_Security.pdf)              |
-| 5      | Security Operations                                                                         | [Security_Operations.pdf](./Domain5_SecurityOperations/D5_Security_Operations.pdf)      |
+| 📚 Domain | 🧩 Title                                                                                      | 📄 PDF Link                                                                                   |
+|----------:|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **1**     | Security Principles                                                                          | [📥 Download](./Domain1_SecurityPrinciples/D1_Security_Principles.pdf)                        |
+| **2**     | Business Continuity, Disaster Recovery & Incident Response                                   | [📥 Download](./Domain2_BusinessContinuity/D2_Incident_Response_Business_Continuity_Disaster_Recovery_Concepts.pdf) |
+| **3**     | Access Control Concepts                                                                      | [📥 Download](./Domain3_AccessControl/D3_Access_Control_Concepts.pdf)                         |
+| **4**     | Network Security                                                                             | [📥 Download](./Domain4_NetworkSecurity/D4_Network_Security.pdf)                              |
+| **5**     | Security Operations                                                                          | [📥 Download](./Domain5_SecurityOperations/D5_Security_Operations.pdf)                        |
 
----
+## 🗂️ What's Inside
 
-## 📄 What's Inside
+Each domain folder contains:
 
-Each domain folder includes:
+- ✅ **PDF Notes** with clear, organized content  
+- ✅ **README Summary** outlining key concepts and objectives  
+- ✅ Coverage aligned with **ISC2’s official exam outline**
 
-- ✅ A **PDF file** containing notes and summaries
-- ✅ A **README.md** file outlining key topics and objectives
+## ⚠️ Disclaimer
 
-All content is aligned with ISC2's official Certified in Cybersecurity outline.
+> These study materials are created as part of a personal study effort.  
+> While they are structured around the official ISC2 exam outline, they are **not an official ISC2 resource**.  
+> Please use these notes alongside **official ISC2 content and reputable study guides**.
 
----
+## 🙌 Contributions & Feedback
 
-## 📌 Disclaimer
+Have suggestions or spot an error? Your feedback is appreciated!
 
-These notes are created as part of my personal study journey for the ISC2 CC exam. While they follow the official domain structure, they are **not an official resource** and should be used alongside ISC2 materials and trusted study guides.
+- 💡 **Open an issue** with your feedback  
+- 🔧 **Submit a pull request** with improvements or corrections  
 
----
-
-## 🤝 Contributions & Feedback
-
-Suggestions, corrections, or improvements are welcome! Feel free to open an issue or submit a pull request.
-
----
+Let’s make this resource better together! 🤝
 
 ## 📚 Useful Resources
 
-- [ISC2 Certified in Cybersecurity (CC) Official Page](https://www.isc2.org/certifications/certified-in-cybersecurity)
-- [Official ISC2 Exam Outline (PDF)](https://www.isc2.org/-/media/ISC2/Certifications/CC/CC-Exam-Outline.ashx)
+- 🌐 [ISC2 Certified in Cybersecurity (CC) Official Page](https://www.isc2.org/certifications/certified-in-cybersecurity)  
+- 📄 [Official ISC2 CC Exam Outline (PDF)](https://www.isc2.org/-/media/ISC2/Certifications/CC/CC-Exam-Outline.ashx)
 
----
+## 🧠 Final Note
 
-Thank you for visiting, and best of luck with your cybersecurity journey! 🛡️
-
+Thanks for visiting this repository!  
+Wishing you success on your cybersecurity journey and your path to becoming **ISC2 Certified**! 💪🔐
